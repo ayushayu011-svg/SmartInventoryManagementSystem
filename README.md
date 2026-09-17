@@ -52,6 +52,7 @@ SmartInventoryManagementSystem/
 │   └── InventoryTest.java
 ├── README.md
 └── .gitignore
+└── project report/
 ```
 
 ## How to Run
